@@ -8,7 +8,7 @@ project.
 After you install homebrew-cask, run the following command:
 
 ```sh
-$ brew tap caskroom/versions
+$ brew tap YusukeKomatsu/homebrew-mycask
 ```
 
 You can now install alternate versions of Casks.
