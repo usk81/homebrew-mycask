@@ -1,5 +1,5 @@
 # Okayu for Under 10.7
-class Okayu < Cask
+class OkayuLower < Cask
   url 'http://kentaroimai.com/products/okayu/Okayu-0.5.01.dmg'
   homepage 'http://kentaroimai.com/projects/okayu'
   version '0.5.01'
